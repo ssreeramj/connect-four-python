@@ -134,5 +134,3 @@ def main(win):
 
 
 curses.wrapper(main)
-
-# make_move(board, 0, player)
